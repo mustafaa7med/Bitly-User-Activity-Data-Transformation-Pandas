@@ -1,0 +1,10 @@
+,web_browser,operating_sys,from_url,to_url,city,Latitude,longitude,time_zone,time_in,time_out
+0,Mozilla,Windows,www.facebook.com,www.ncbi.nlm.nih.gov,Danvers,42.576698,-70.954903,America/New_York,1970-01-01 00:00:01.333307030,1970-01-01 00:00:01.333307037
+1,GoogleMaps,GoogleMaps,www.AwareMap.com,www.monroecounty.gov,Provo,40.218102,-111.613297,America/Denver,1970-01-01 00:00:01.331923249,1970-01-01 00:00:01.308262393
+2,Mozilla,Windows,t.co,boxer.senate.gov,Washington,38.9007,-77.043098,America/New_York,1970-01-01 00:00:01.333407030,1970-01-01 00:00:01.333407035
+3,Mozilla,Macintosh,direct,apod.nasa.gov,Braz,-23.549999,-46.616699,America/Sao_Paulo,1970-01-01 00:00:01.333507030,1970-01-01 00:00:01.333507044
+4,Mozilla,Windows,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,42.286499,-71.714699,America/New_York,1970-01-01 00:00:01.333607030,1970-01-01 00:00:01.333607039
+5,Mozilla,Windows,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,42.286499,-71.714699,America/New_York,1970-01-01 00:00:01.333707030,1970-01-01 00:00:01.333707048
+6,Mozilla,Windows,plus.url.google.com,www.nasa.gov,Luban,51.116699,15.2833,Europe/Warsaw,1970-01-01 00:00:01.333807030,1970-01-01 00:00:01.333807040
+10,Mozilla,Windows,direct,www.nysdot.gov,Seattle,47.5951,-122.332603,America/Los_Angeles,1970-01-01 00:00:01.334107030,1970-01-01 00:00:01.334107040
+11,Mozilla,Macintosh,t.co,oversight.house.gov,Washington,38.937599,-77.092796,America/New_York,1970-01-01 00:00:01.334207040,1970-01-01 00:00:01.334207043
