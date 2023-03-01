@@ -1,5 +1,5 @@
 # Bitly User Activity Data Transformation
-Transforming Bitly User activity dataset into readable tabular data from `json` file to a `DataFrame` to a `CSV` eventually.
+Transforming Bitly User activity dataset who shorten `.gov` links into readable tabular data from `json` file to a `DataFrame` to eventually a `CSV`.
 
 ### Objective:
 -  Data Transformation
@@ -10,6 +10,8 @@ Transforming Bitly User activity dataset into readable tabular data from `json` 
 - Pandas ***Library***
 - json ***Library***
 - datetime ***Library***
+- seaborn ***Library***
+- matplotlib.pyplot ***Library***
 
 ### Dataset:
 - `usa.gov_click_data_1.json`
